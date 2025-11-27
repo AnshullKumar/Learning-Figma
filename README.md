@@ -19,7 +19,3 @@ Open the links above in Figma (desktop or browser). If the file requires access,
 ## Contributing
 
 These are personal practice files, but suggestions and improvements are welcome — open an issue or a PR if you have ideas for the repository structure or additional notes.
-
-## Contact
-
-Find me on GitHub: https://github.com/AnshullKumar
